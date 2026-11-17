@@ -4,3 +4,14 @@ mkdir -> cria o diretório
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório 
 pwd -> mostra o caminho exato
+
+FLUXO DE TRABALHO:
+- Cria um diretório 
+- Inicia o git dentro do diretório criado (git init)
+- Edita ou cria arquivos
+- git status
+- git add (nome do arquivo)
+- git status
+-git commit (nome do arquivo)
+-git status
+- Volta para o passo 3
