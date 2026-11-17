@@ -1,0 +1,3 @@
+ls -> fala os diretórios
+cd -> leva para os diretórios 
+mkdir -> cria o diretorio
