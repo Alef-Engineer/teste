@@ -1,3 +1,5 @@
 ls -> fala os diretórios
 cd -> leva para os diretórios 
-mkdir -> cria o diretorio
+mkdir -> cria o diretório
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório 
