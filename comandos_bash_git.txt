@@ -3,3 +3,4 @@ cd -> leva para os diretórios
 mkdir -> cria o diretório
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório 
+pwd -> mostra o caminho exato
